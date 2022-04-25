@@ -1,2 +1,2 @@
-# react
- Just learning react
+# React
+ Meus passos com o framework
