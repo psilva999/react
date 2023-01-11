@@ -1,2 +1,3 @@
-# React
- Meus passos com o framework
+# React.js
+
+Just learning React
