@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "00-hello-world\\public": true,
+    "00-hello-world\\node_modules": true,
+    ".vscode": true,
+    "00-hello-world\\.gitignore": true,
+    "00-hello-world\\package-lock.json": true,
+    "00-hello-world\\package.json": true,
+    "00-hello-world\\vite.config.js": true
+  }
+}
