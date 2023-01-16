@@ -6,6 +6,11 @@
     "00-hello-world\\.gitignore": true,
     "00-hello-world\\package-lock.json": true,
     "00-hello-world\\package.json": true,
-    "00-hello-world\\vite.config.js": true
+    "00-hello-world\\vite.config.js": true,
+    "01-jsx\\.gitignore": true,
+    "01-jsx\\package-lock.json": true,
+    "01-jsx\\package.json": true,
+    "01-jsx\\vite.config.js": true,
+    "01-jsx\\node_modules": true
   }
 }
