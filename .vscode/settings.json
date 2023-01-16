@@ -11,6 +11,11 @@
     "01-jsx\\package-lock.json": true,
     "01-jsx\\package.json": true,
     "01-jsx\\vite.config.js": true,
-    "01-jsx\\node_modules": true
+    "01-jsx\\node_modules": true,
+    "02-arrays-events\\.gitignore": true,
+    "02-arrays-events\\package.json": true,
+    "02-arrays-events\\vite.config.js": true,
+    "02-arrays-events\\node_modules": true,
+    "02-arrays-events\\package-lock.json": true
   }
 }
