@@ -16,6 +16,10 @@
     "02-arrays-events\\package.json": true,
     "02-arrays-events\\vite.config.js": true,
     "02-arrays-events\\node_modules": true,
-    "02-arrays-events\\package-lock.json": true
+    "02-arrays-events\\package-lock.json": true,
+    "03-components-properties\\node_modules": true,
+    "03-components-properties\\.gitignore": true,
+    "03-components-properties\\package.json": true,
+    "03-components-properties\\vite.config.js": true
   }
 }
