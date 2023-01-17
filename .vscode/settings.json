@@ -20,6 +20,15 @@
     "03-components-properties\\node_modules": true,
     "03-components-properties\\.gitignore": true,
     "03-components-properties\\package.json": true,
-    "03-components-properties\\vite.config.js": true
+    "03-components-properties\\vite.config.js": true,
+    "04-rev-components\\.gitignore": true,
+    "04-rev-components\\package-lock.json": true,
+    "04-rev-components\\package.json": true,
+    "04-rev-components\\vite.config.js": true,
+    "04-rev-components\\node_modules": true,
+    "00-hello-world": true,
+    "01-jsx": true,
+    "02-arrays-events": true,
+    "03-components-properties": true
   }
 }
