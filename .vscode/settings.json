@@ -29,6 +29,11 @@
     "00-hello-world": true,
     "01-jsx": true,
     "02-arrays-events": true,
-    "03-components-properties": true
+    "03-components-properties": true,
+    "05-useState\\node_modules": true,
+    "05-useState\\.gitignore": true,
+    "05-useState\\package-lock.json": true,
+    "05-useState\\package.json": true,
+    "05-useState\\vite.config.js": true
   }
 }
