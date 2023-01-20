@@ -1,8 +1,14 @@
 import React from 'react'
 
 const App = () => {
+  const ativo = true
+
   return (
-    <div>App</div>
+    <section>
+      <button disabled={!ativo}>
+        { ativo? 'Botão ativo' : 'inativo' }
+      </button>
+    </section>
   )
 }
 
