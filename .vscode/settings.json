@@ -34,6 +34,17 @@
     "05-useState\\.gitignore": true,
     "05-useState\\package-lock.json": true,
     "05-useState\\package.json": true,
-    "05-useState\\vite.config.js": true
+    "05-useState\\vite.config.js": true,
+    "2-css-modules-vanilla\\.vscode": true,
+    "2-css-modules-vanilla\\node_modules": true,
+    "2-css-modules-vanilla\\.eslintrc.cjs": true,
+    "2-css-modules-vanilla\\.gitattributes": true,
+    "2-css-modules-vanilla\\.gitignore": true,
+    "2-css-modules-vanilla\\LICENSE": true,
+    "2-css-modules-vanilla\\package-lock.json": true,
+    "2-css-modules-vanilla\\package.json": true,
+    "2-css-modules-vanilla\\tsconfig.json": true,
+    "2-css-modules-vanilla\\tsconfig.node.json": true,
+    "2-css-modules-vanilla\\vite.config.ts": true
   }
 }
