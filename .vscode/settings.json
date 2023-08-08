@@ -45,6 +45,27 @@
     "2-css-modules-vanilla\\package.json": true,
     "2-css-modules-vanilla\\tsconfig.json": true,
     "2-css-modules-vanilla\\tsconfig.node.json": true,
-    "2-css-modules-vanilla\\vite.config.ts": true
+    "2-css-modules-vanilla\\vite.config.ts": true,
+    "2-vanilla-modules\\.vscode": true,
+    "2-vanilla-modules\\node_modules": true,
+    "2-vanilla-modules\\public": true,
+    "2-vanilla-modules\\src\\vite-env.d.ts": true,
+    "2-vanilla-modules\\.eslintrc.cjs": true,
+    "2-vanilla-modules\\.gitattributes": true,
+    "2-vanilla-modules\\.gitignore": true,
+    "2-vanilla-modules\\LICENSE": true,
+    "2-vanilla-modules\\package-lock.json": true,
+    "2-vanilla-modules\\package.json": true,
+    "2-vanilla-modules\\README.md": true,
+    "2-vanilla-modules\\tsconfig.json": true,
+    "2-vanilla-modules\\tsconfig.node.json": true,
+    "2-vanilla-modules\\vite.config.ts": true,
+    "1-button-alert": true,
+    "2-vanilla-modules\\src\\components\\Button": true,
+    "2-vanilla-modules\\src\\components\\ListGroup": true,
+    "2-vanilla-modules\\src\\components\\Alert.tsx": true,
+    "2-vanilla-modules\\src\\components\\AlertButton.tsx": true,
+    "2-vanilla-modules\\src\\components\\Button.tsx": true,
+    "2-vanilla-modules\\src\\main.tsx": true
   }
 }

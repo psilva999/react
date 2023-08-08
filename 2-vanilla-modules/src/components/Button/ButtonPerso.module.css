@@ -1,0 +1,13 @@
+.btn {
+  font-size:2rem;
+  letter-spacing:.3rem;
+  background:gray;
+  color:orange;
+  padding:.5rem 1rem;
+  border-radius:3rem;
+}
+
+.btn-primary {
+  background:green;
+  font-size:3rem;
+}
